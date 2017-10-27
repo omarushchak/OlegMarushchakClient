@@ -1,0 +1,68 @@
+2017-10-27 00:18:43,050  INFO com.epam.lab.service.util.TestNGListener:34 - test starts MykolaSobkoClient-master on Fri Oct 27 00:18:43 EEST 2017
+2017-10-27 00:18:43,734  INFO com.epam.lab.service.util.TestNGListener:14 - test starts soapAddTest_ValidValuesPassed_ShouldPass
+2017-10-27 00:18:43,844  INFO com.epam.lab.test.SoapTest:42 - Expected result = 200.0 and actual = 200.0
+2017-10-27 00:18:43,847  INFO com.epam.lab.service.util.TestNGListener:18 - test passed soapAddTest_ValidValuesPassed_ShouldPass during time 113
+2017-10-27 00:18:43,850  INFO com.epam.lab.service.util.TestNGListener:14 - test starts soapDivideTest_ValidValuesPassed_ShouldPass
+2017-10-27 00:18:43,869  INFO com.epam.lab.test.SoapTest:71 - Expected result = 12.0 and actual = 12.0
+2017-10-27 00:18:43,873  INFO com.epam.lab.service.util.TestNGListener:18 - test passed soapDivideTest_ValidValuesPassed_ShouldPass during time 22
+2017-10-27 00:18:43,875  INFO com.epam.lab.service.util.TestNGListener:14 - test starts soapMultiplyTest_ValidValuesPassed_ShouldPass
+2017-10-27 00:18:43,882  INFO com.epam.lab.test.SoapTest:86 - Expected result = 1000.0 and actual = 1000.0
+2017-10-27 00:18:43,884  INFO com.epam.lab.service.util.TestNGListener:18 - test passed soapMultiplyTest_ValidValuesPassed_ShouldPass during time 8
+2017-10-27 00:18:43,885  INFO com.epam.lab.service.util.TestNGListener:14 - test starts soapPercentageTest_ValidValuesPassed_ShouldPass
+2017-10-27 00:18:43,924  INFO com.epam.lab.test.SoapTest:101 - Expected result = 2.0 and actual = 2.0
+2017-10-27 00:18:43,925  INFO com.epam.lab.service.util.TestNGListener:18 - test passed soapPercentageTest_ValidValuesPassed_ShouldPass during time 40
+2017-10-27 00:18:43,926  INFO com.epam.lab.service.util.TestNGListener:14 - test starts soapSubtractTest_ValidValuesPassed_ShouldPass
+2017-10-27 00:18:43,936  INFO com.epam.lab.test.SoapTest:56 - Expected result = 90.0 and actual = 90.0
+2017-10-27 00:18:43,937  INFO com.epam.lab.service.util.TestNGListener:18 - test passed soapSubtractTest_ValidValuesPassed_ShouldPass during time 11
+2017-10-27 00:18:43,941  INFO com.epam.lab.service.util.TestNGListener:38 - test ends MykolaSobkoClient-master onFri Oct 27 00:18:43 EEST 2017
+2017-10-27 00:20:15,680  INFO com.epam.lab.test.RestTest:49 - Expected result = 3.6667 and actual = 3.6667
+2017-10-27 00:20:15,695  INFO com.epam.lab.test.RestTest:38 - Expected result = 5.0 and actual = 5.0
+2017-10-27 00:20:15,701  INFO com.epam.lab.test.RestTest:60 - Expected result = 11.1111 and actual = 11.1111
+2017-10-27 00:20:15,710  INFO com.epam.lab.test.RestTest:71 - Expected result = 2.0 and actual = 2.0
+2017-10-27 00:20:15,716  INFO com.epam.lab.test.RestTest:27 - Expected result = 30.0 and actual = 30.0
+2017-10-27 00:21:37,407  INFO com.epam.lab.service.util.TestNGListener:34 - test starts Tests on Fri Oct 27 00:21:37 EEST 2017
+2017-10-27 00:21:38,603  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:21:38,604  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:21:38,605  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:21:38,606  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:21:38,606  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:21:38,609  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:21:38,611  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:21:38,614  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:21:38,615  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:21:38,617  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:21:38,618  INFO com.epam.lab.service.util.TestNGListener:38 - test ends Tests onFri Oct 27 00:21:38 EEST 2017
+2017-10-27 00:21:55,815  INFO com.epam.lab.test.RestTest:49 - Expected result = 3.6667 and actual = 3.6667
+2017-10-27 00:21:55,838  INFO com.epam.lab.test.RestTest:38 - Expected result = 5.0 and actual = 5.0
+2017-10-27 00:21:55,850  INFO com.epam.lab.test.RestTest:60 - Expected result = 11.1111 and actual = 11.1111
+2017-10-27 00:21:55,857  INFO com.epam.lab.test.RestTest:71 - Expected result = 2.0 and actual = 2.0
+2017-10-27 00:21:55,863  INFO com.epam.lab.test.RestTest:27 - Expected result = 30.0 and actual = 30.0
+2017-10-27 00:22:30,772  INFO com.epam.lab.test.RestTest:49 - Expected result = 3.6667 and actual = 3.6667
+2017-10-27 00:22:30,784  INFO com.epam.lab.test.RestTest:38 - Expected result = 5.0 and actual = 5.0
+2017-10-27 00:22:30,791  INFO com.epam.lab.test.RestTest:60 - Expected result = 11.1111 and actual = 11.1111
+2017-10-27 00:22:30,797  INFO com.epam.lab.test.RestTest:71 - Expected result = 2.0 and actual = 2.0
+2017-10-27 00:22:30,803  INFO com.epam.lab.test.RestTest:27 - Expected result = 30.0 and actual = 30.0
+2017-10-27 00:23:24,123  INFO com.epam.lab.test.RestTest:49 - Expected result = 3.6667 and actual = 3.6667
+2017-10-27 00:23:24,149  INFO com.epam.lab.test.RestTest:38 - Expected result = 5.0 and actual = 5.0
+2017-10-27 00:23:24,154  INFO com.epam.lab.test.RestTest:60 - Expected result = 11.1111 and actual = 11.1111
+2017-10-27 00:23:24,160  INFO com.epam.lab.test.RestTest:71 - Expected result = 2.0 and actual = 2.0
+2017-10-27 00:23:24,165  INFO com.epam.lab.test.RestTest:27 - Expected result = 30.0 and actual = 30.0
+2017-10-27 00:23:24,173  INFO com.epam.lab.service.util.TestNGListener:34 - test starts Soap Tests on Fri Oct 27 00:23:24 EEST 2017
+2017-10-27 00:23:25,249  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:23:25,250  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:23:25,252  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:23:25,254  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:23:25,256  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 00:23:25,258  INFO com.epam.lab.service.util.TestNGListener:38 - test ends Soap Tests onFri Oct 27 00:23:25 EEST 2017
+2017-10-27 10:51:49,673  INFO com.epam.lab.service.util.TestNGListener:34 - test starts Tests on Fri Oct 27 10:51:49 EEST 2017
+2017-10-27 10:51:51,831  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 10:51:51,832  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 10:51:51,850  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 10:51:51,852  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 10:51:51,853  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 10:51:51,868  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 10:51:51,869  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 10:51:51,871  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 10:51:51,872  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 10:51:51,873  INFO com.epam.lab.service.util.TestNGListener:26 - test skipped null
+2017-10-27 10:51:51,873  INFO com.epam.lab.service.util.TestNGListener:38 - test ends Tests onFri Oct 27 10:51:51 EEST 2017

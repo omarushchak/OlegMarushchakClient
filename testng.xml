@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Web Services Test Suite" data-provider-thread-count="2">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="Tests">
+        <classes>
+            <class name="com.epam.lab.test.SoapTest"/>
+            <class name="com.epam.lab.test.RestTest"/>
+        </classes>
+    </test>
+</suite>
